@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PracticaContador</string>
+
+    <string name="btComenzarCuenta">Comenzar Cuenta</string>
+    <string name="btCancelarCuenta">Cancelar Cuenta</string>
+    <string name="btReaunudarCuenta">Reaunudar Cuenta</string>
+    <string name="btPausarCuenta">Pausar Cuenta</string>
+    <string name="valorCont">0</string>
 </resources>
